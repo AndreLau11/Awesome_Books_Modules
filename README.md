@@ -18,7 +18,7 @@
 ### Desktop view
 ![Screenshot from 2022-03-16 08-12-39](https://user-images.githubusercontent.com/79658534/158528339-2946c2bd-56ed-4865-bed7-e272edb1fe74.png)
 
-## Live Site URL: https://virag-ky.github.io/Microverse-Awesome-Books/
+[Live Demo Link](https://andrelau11.github.io/Awesome_Books_Modules/)
 
 ## Getting started
 
@@ -44,22 +44,17 @@ git clone git@github.com:virag-ky/Microverse-Awesome-Books.git
 
 ## Authors
 
-👤 **Virag Kormoczy**
+👤 **Hector Andre Lau**
 
-- GitHub: [@virag-ky](https://github.com/virag-ky)
-- Twitter: [@Virag_Ky](https://twitter.com/Virag_Ky)
-
-👤 **Assad Isah**
-
-- GitHub: [@nottherealalanturing](https://github.com/nottherealalanturing)
-- Twitter: [@assadeesaa](https://twitter.com/assadeesaa)
-- LinkedIn: [Assad Isah](https://linkedin.com/in/assadisah)
+- GitHub: [@AndreLau11](https://github.com/AndreLau11)
+- Twitter: [@HectorAndreLau](https://twitter.com/HectorAndreLau)
+- LinkedIn: [@HectorAndreLauEstrada](https://www.linkedin.com/in/h%C3%A9ctor-andr%C3%A9-lau-estrada-b4947795/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/AndreLau11/Awesome_Books_Modules/issues).
 
 ## Show your support
 
