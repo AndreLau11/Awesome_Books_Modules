@@ -1,8 +1,6 @@
 import Book from './book.js';
-
 import navigate from './nav-items.js';
-
-import { DateTime } from '../node_modules/luxon/src/luxon.js';
+import { DateTime } from '../modules/luxon.js';
 
 const bookSection = document.querySelector('.book-list');
 const bookTitle = document.querySelector('#title');
