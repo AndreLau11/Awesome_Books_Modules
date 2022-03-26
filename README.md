@@ -1,8 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Awesome Books
+# Awesome Books - Solo Project
 
 > This project is about a list of books. The user can add books by providing a book title and an author. The user can also delete a certain book from the list by clicking the delete button.
+
 
 ## Built With
 
@@ -11,34 +12,31 @@
 - JavaScript
 
 ## Screenshot
-### Mobile view
-![Screenshot from 2022-03-16 08-13-01](https://user-images.githubusercontent.com/79658534/158528277-f442b683-e5a0-41fa-adad-44166462cdb5.png)
 
 
-### Desktop view
-![Screenshot from 2022-03-16 08-12-39](https://user-images.githubusercontent.com/79658534/158528339-2946c2bd-56ed-4865-bed7-e272edb1fe74.png)
+![Screenshot from 2022-03-21 17-42-42](https://user-images.githubusercontent.com/79658534/159297727-334feaad-114b-4d27-a53c-9791a63b35be.png)
 
-[Live Demo Link](https://andrelau11.github.io/Awesome_Books_Modules/)
 
-## Getting started
+## Live Site URL: https://virag-ky.github.io/Awesome-Books-Solo-Project/
 
-To get a local copy up and running follow these simple example steps.
+
+## Getting Started
+
 
 ### Prerequisites
-* web browser (e.g. Google Chrome)
-* text editor (e.g. VSCode)
-* CLI/terminal
+- browser (e.g. Google Chrome)
+- text editor (e.g. VSCode)
+- terminal/CLI
 
-### Setup the project locally
-```
-git clone git@github.com:virag-ky/Microverse-Awesome-Books.git
-```
+### Clone the repository
 
-### Usage
-* open the index.html file in the browser
+```
+git clone git@github.com:AndreLau11/Awesome_Books_Modules.git
+```
 
 ### Deployment
-* This project is deployed with Github pages.
+
+- The project is deployed with Github pages.
 
 
 
@@ -59,6 +57,7 @@ Feel free to check the [issues page](https://github.com/AndreLau11/Awesome_Books
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
 
 ## 📝 License
 
